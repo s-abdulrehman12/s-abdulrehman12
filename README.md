@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @s-abdulrehman12
-- 👀 I’m interested in coding and development...
-- 🌱 I’m currently learning web development and  c++...
+- 👀 I’m interested in coding and development..
 - 💞️ I’m looking to collaborate on .public sector..
 - 📫 How to reach me .sabdulrehman90u@gmail.com..
 
