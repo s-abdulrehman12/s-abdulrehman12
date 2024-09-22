@@ -1,3 +1,4 @@
+<h1 align="center">Syed Abdul Rehman</h1>
 <h3 align="center">Flutter Developer | CS Sophomore | UET'27</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
