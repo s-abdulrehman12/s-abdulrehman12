@@ -1,5 +1,5 @@
 <h1 align="center">Syed Abdul Rehman</h1>
-<h3 align="center">Flutter Developer | CS Sophomore | UET'27</h3>
+<h3 align="center">Flutter Developer | CS Junior Year | UET'27</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 -  I'm working on flutter mobile development
