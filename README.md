@@ -2,6 +2,7 @@
 <h3 align="center">Flutter Developer | CS Sophomore | UET'27</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
+-  I'm working on flutter mobile development
 
 - 📫 How to reach me **sabdulrehman90u@gmail.com**
 
